@@ -10,8 +10,9 @@ redirect_from:
 🎓 I'm a 3rd Year Undergraduate Student studying Artificial Intelligence at the University of
 Edinburgh.
 
-💡 I'm interested in Computer Vision, Reinforcement learning and biologically-inspired algorithms
-for general purpose intelligence.
+💡 I'm interested in Computer Vision, Reinforcement learning and Computational Neuroscience.
+
+📝 I like to write about a lot of things. Check out a few of my articles.
 
 # Projects
 
