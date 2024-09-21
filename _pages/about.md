@@ -14,7 +14,7 @@ Edinburgh.
 
 📝 I like to write about a lot of [things](https://arjavpoudel.github.io/year-archive/).
 
-# Projects
+# 🤖 Projects
 
 ## ✍🏼 Nepali Handwritten Character Recognition Tool
 
@@ -26,3 +26,9 @@ Edinburgh.
 - Collaborated with the Human-Computer Interaction team at the University of St. Andrews to explore potential applications of Brain-Computer Interfaces (BCIs).
 - Conducted a comparative analysis of various BCI technologies, evaluating them based on key metrics such as neuronal recording scale, spatio-temporal resolution, and surgical invasiveness.
 - Presented research findings as part of my Scottish Baccalaureate in Science, earning a Distinction and demonstrating strong research capabilities in the field of BCIs.
+
+# 🧐 Professional Experience
+
+As an ML Engineer Summer Intern at UKAEA Culham, I developed state-of-the-art machine learning solutions for experimental validation in fusion technology, focusing on physics-informed approaches. I implemented diverse model architectures (MLPs, CNNs, GANs, PINNs) to predict discrepancies in tokamak divertor simulations, pioneered the use of Physics-Informed Neural Networks for inverse PDE problems, and created hybrid models combining physics-based simulations with deep learning. My work, including the open-source 'Icarus-fusion' tool, achieved significant improvements in validation time and prediction accuracy, potentially reducing physical testing costs and accelerating fusion reactor development.
+
+As a Head of Computer Vision at HumanEd Edinburgh, I'm contributing to an advanced bio-mimetic hand project, using computer vision and deep reinforcement learning for autonomous Rubik's cube solving, building upon previous work by OpenAI to create a generalised infrastructure without specialised sensors.
