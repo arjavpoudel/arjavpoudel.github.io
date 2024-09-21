@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-🎓 I'm in my 3rd Year studying BSc AI at the University of Edinburgh. I'm interested in Computer Vision, NLP, Reinforcement learning and Computational Neuroscience.
+🎓 I'm a 3rd year BSc AI student at the University of Edinburgh. I'm interested in Computer Vision, NLP, Reinforcement learning and Computational Neuroscience.
 
 📝 I write about [things](https://arjavpoudel.github.io/year-archive/) from time to time.
 
@@ -15,7 +15,7 @@ redirect_from:
 
 ## ✍🏼 Nepali Handwritten Character Recognition Tool
 
-- I developed a deep learning model using CNNs in PyTorch to recognise handwritten Nepali characters, achieving over 97% accuracyn whilst utilising a limited training dataset.
+- I developed a deep learning model using CNNs in PyTorch to recognise handwritten Nepali characters, achieving over 97% accuracy whilst utilising a limited training dataset.
 - Built a software tool with a real‑time handwriting recognition algorithm to showcase the model’s capabilities and release technology aimed to positively influence language learning and educational resources for underserved Nepali communities in the UK.
 
 ## 🧠 Brain‑Computer-Interfaces
@@ -26,4 +26,4 @@ redirect_from:
 
 ## 🧐 Professional Experience
 
-Over Summer 2024, I worked as an ML Engineer Summer Intern at **UKAEA**, developing novel machine learning solutions for **experimental validation** within fusion technology, focusing on physics-informed approaches to predict discrepancies in tokamak divertor monoblock simulations. As Head of Computer Vision at **HumanEd**, We're combining **computer vision** and **deep reinforcement learning** to build a biomimetic hand for autonomous Rubik's cube solving, building upon previous work by OpenAI to create a generalised infrastructure (but thois time without any specialised sensors).
+Over Summer 2024, I worked as an ML Engineer Summer Intern at **UKAEA**, developing novel machine learning solutions for **experimental validation** within fusion technology, focusing on physics-informed approaches to predict discrepancies in tokamak divertor monoblock simulations. As Head of Computer Vision at **HumanEd**, we're combining **computer vision** and **deep reinforcement learning** to build a biomimetic hand for autonomous Rubik's cube solving, building upon previous work by OpenAI to create a generalised infrastructure (but this time without any specialised sensors).
