@@ -27,6 +27,6 @@ Edinburgh.
 - Conducted a comparative analysis of various BCI technologies, evaluating them based on key metrics such as neuronal recording scale, spatio-temporal resolution, and surgical invasiveness.
 - Presented research findings as part of my Scottish Baccalaureate in Science, earning a Distinction and demonstrating strong research capabilities in the field of BCIs.
 
-# 🧐 Professional Experience
+## 🧐 Professional Experience
 
 Over Summer 2024, I worked as an ML Engineer Summer Intern at **UKAEA**, developing novel machine learning solutions for **experimental validation** in fusion technology, focusing on physics-informed approaches to predict discrepancies in tokamak divertor simulations. As Head of Computer Vision at **HumanEd**, I'm contributing to an advanced biomimetic hand project, using **computer vision** and **deep reinforcement learning** for autonomous Rubik's cube solving, building upon previous work by OpenAI to create a generalised infrastructure without specialised sensors.
