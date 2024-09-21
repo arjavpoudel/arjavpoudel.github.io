@@ -1,10 +1,10 @@
 ---
-layout: archive
-title: "Book Notes"
-permalink: /booknotes/
-author_profile: true
-redirect_from:
-  - /booknotes
+title: "Atomic Habits"
+permalink: /booknotes/atomic-habits/
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
 
 #### Compound Interest
