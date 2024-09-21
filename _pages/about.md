@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-🎓 I'm a 3rd Year Undergraduate Student studying Artificial Intelligence at the University of
-Edinburgh.
+🎓 I'm a 3rd Year Undergraduate Student studying AI at the University of Edinburgh.
 
 💡 I'm interested in Computer Vision, Reinforcement learning and Computational Neuroscience.
 
