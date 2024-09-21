@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Arjav 👋🏼"
+title: "👋🏼 Hello, I'm Arjav"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,7 +9,9 @@ redirect_from:
 
 🎓 I'm a 3rd Year Undergraduate Student studying Artificial Intelligence at the University of
 Edinburgh.
+
 💡 I'm interested in Computer Vision, Reinforcement learning and Computational Neuroscience.
+
 📝 I like to write about a lot of [things](https://arjavpoudel.github.io/year-archive/).
 
 # Projects
