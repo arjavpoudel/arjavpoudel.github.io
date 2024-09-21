@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Book Notes"
+permalink: /booknotes/
+author_profile: true
+redirect_from:
+  - /booknotes
+---
+
 #### Compound Interest
 
 - If we get 1% better each day by the end of the year, we'll get x 37 better.
