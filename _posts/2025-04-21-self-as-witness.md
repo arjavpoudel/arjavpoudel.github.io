@@ -10,7 +10,7 @@ tags:
 
 A friend once mentioned something I often come back to.
 
-We're swapping Lockdown stories at the time, and she tells me about the hundreds of TikToks she used to make with her friends - specifically, how they embarass her. "If we'd made them when we were 12," she groans, "I'd definitely find them cute by now".
+We're swapping Lockdown stories at the time, and she tells me about the hundreds of TikToks she used to make with her friends - how they make her cringe. "If we'd made them when we were 12," she groans, "I'd definitely find them cute by now".
 
 As is the case with off-hand comments, this one sticks.On one level, it's as if she's managed to wander far enough from her pre-teen self to look back with detachment, even fondness. To reminisce, not ruminate. On another, this feels like a quiet confession: Dredged up home videos make her cringe because she knows the girl in the frame - she's still that girl.
 
