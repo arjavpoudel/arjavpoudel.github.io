@@ -12,7 +12,7 @@ A friend once told me something I often dwell on.
 
 We're swapping COVID stories at the time. She's describing the many TikToks her and friends filmed in the purgatory between Lockdowns. "If we'd made them when we were 12," she groans, "I'd definitely find them cute by now".
 
-Wow. An off-hand comment that sticks. On one level, it's as if she's managed to stray far enough from her pre-teen self to afford detachment, even fondness. To reminisce, not ruminate. On another, this is a confession: Dredged up home videos make her cringe because she knows the girl in the frame - she's still that girl.
+Her off-hand comment sticks. On one level, it's as if she's managed to stray far enough from her pre-teen self to afford detachment, even fondness. To reminisce, not ruminate. On another, this is a confession: Dredged up home videos make her cringe because she knows the girl in the frame - she's still that girl.
 
 I think about this a lot. There are moments I find hard to revisit. Does that mean I still sit with people I used to be? And given how cliche it is to feel beholden to a parliament of our past selves, perhaps we never really leave the table. Why should identity be this unbroken line - this thread of selfhood that hasn't frayed with time? My guess: If the past action makes you cringe, you still own it, and so are tethered to it. You remain very much at one with the one who did the thing. My friend's childhood felt 'cute' because she no longer expects her current self to answer for it. She's filed it away under a former identity, and in doing so stepped far enough back to look upon the little one with warmth, in lieu of judgement.
 
