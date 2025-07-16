@@ -10,7 +10,7 @@ tags:
 
 
 
-The conventional wisdom says extremes are universally bad. Find the golden mean, they say. But I think there's a subtler point here: True in the binary sense—most benefits don't lie in the extrema, but while some behaviours punish excess and deficiency equally, others are fundamentally lopsided in their consequences. It's like a value-skewed tradeoff function that challenges our assumptions about behavioural balance. I call it asymmetrical upshot. And here's where I see it.
+The conventional wisdom says extremes are universally bad. Find the golden mean, they say. But I think there's a subtler point here: True in the binary sense—most benefits don't lie in the extrema, but while some behaviours punish excess and deficiency equally, others are fundamentally lopsided in their consequences. It's like a value-skewed tradeoff function that challenges our assumptions about behavioural balance. I call it asymmetrical upshot. 
 
 Take confidence. Both overconfidence and underconfidence are suboptimal, yes. But society rewards the person who overestimates their capabilities far more than it notices the person who underestimates theirs. Overconfidence gets you in the room; underconfidence leaves you invisible. 
 
