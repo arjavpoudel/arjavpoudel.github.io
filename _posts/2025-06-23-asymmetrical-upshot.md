@@ -3,9 +3,6 @@ title: "Asymmetrical Upshot"
 date: 2025-06-23
 permalink: /posts/2025/06/asymmetrical-upshot/
 tags:
-  - cool posts
-  - category1
-  - category2
 ---
 
 
