@@ -33,9 +33,9 @@ Social Media: where interaction is _always_ spectated, thus always performative.
 
 Here, affective yield is typically low. Nothing lands. So why even allow it to exist? 
 
-**Incentives**.  Zoom, social platforms, even polite conversation nudge us toward performance. Systems thrive on clarity. Metrics. Measurables. And anyone from the business world will tell you that what gets measured, gets managed. A social Goodhart's Law: when validation becomes the proxy for connection, we optimise for the wrong signal.
+**Incentives**. LinkedIn, social platforms, even polite conversation nudge us toward performance. Systems thrive on clarity. Metrics. Measurables. And anyone from the business world will tell you that what gets measured, gets managed. A social Goodhart's Law: when validation becomes the proxy for connection, we optimise for the wrong signal.
 
-Performative interactions aren't entirely avoidable. They're not even inherently bad. Public speaking, flirting, pitching- high-octane stuff. Maybe necessary, given your goals.  The danger is the **default**, the baseline. If your social fabric is mostly performative, the strain snowballs. You start to wonder: Why am I exhausted after a day with no visible stressors? Masks get heavy, especially when nobody else can know you're wearing one. 
+Performative interactions aren't entirely avoidable. They're not even inherently bad. Public speaking, flirting, pitching - high-octane stuff. Maybe necessary, given your goals.  The danger is the **default**, the baseline. If your social fabric is mostly performative,the strain adds up. You start to wonder: Why am I exhausted after a day with no visible stressors? Masks get heavy, especially when nobody else can know you're wearing one. 
 
 So I'm not talking about eliminating performance, simply positing that  If your base state is fed by restorative ties, performative stretches are easier to recover from. Like lifting heavy between long rests.
 
