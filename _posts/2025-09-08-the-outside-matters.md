@@ -37,7 +37,7 @@ Effort signals investment. That's the whole point. If you don't believe me, ask 
 Now, the bar is relative. If someone typically drifts through life in "no-fucks-given" attire but decides to put on cologne or a bit of makeup, that's already meaningful. You could argue that, since you don't necessarily know their baseline, you shouldn't judge too quickly. Fair. But humans are wired to notice effort when it's visible. Visibility matters. What gets measured gets managed.  if you want to manage how you're perceived, or for people to notice you care, you'd better make it easy to measure. 
 
 <figure>
-  <img src="assets/New-Coke-branding-4.png" alt="Coca-Cola's New Coke fiasco">
+  <img src="https://cdn.thebrandingjournal.com/wp-content/uploads/2025/02/New-Coke-branding-4.png" alt="Coca-Cola's New Coke fiasco">
   <figcaption>Coca-Cola's infamous "New Coke" fiasco of 1985. Blind taste tests consistently showed people preferred the new formula. But once the drink was put back into branded cans, the old Coke trounced it. Packaging and brand—the outside—overrode the inside. If people will betray their own taste buds for a shinier label, you don't think they'll judge you for showing up with last night's dinner on the fringes of your moustache?</figcaption>
 </figure>
 
