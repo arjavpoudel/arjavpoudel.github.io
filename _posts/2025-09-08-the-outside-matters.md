@@ -1,8 +1,8 @@
 ---
 title: "The Outside Matters"
-date: 2025-09-08"
+date: 2025-09-08
 permalink: /posts/2025/09/the-outside-matters/
-tags:
+tags: []
 ---
 _Lessons from Christmas cards and Apple Packaging_
 
@@ -26,7 +26,7 @@ Paul Graham has an essay called _Do Things That Don't Scale_, where he talks abo
 
 Packaging is emotive. Presentation shapes perception. And I don't just mean products. If  each passer-by could instantly see through our individual muddied exteriors to the gem within, appearances would be irrelevant. But they can't. So they aren't. 
 
-By now we've all been force-fed the maxim: "Never judge a book by its cover - It's only hte inside that counts " How holier than thou of you. You're conflating an ideal society (one that doesn't care) with a real one (one that shouldn't care, but very much does). But by all means, teach them that we only care about the 'inside', then act shocked when people laugh at their forehead tattoo.
+By now we've all been force-fed the maxim: "Never judge a book by its cover — it's only the inside that counts". How holier than thou of you. You're conflating an ideal society (one that doesn't care) with a real one (one that shouldn't care, but very much does). But by all means, teach them that we only care about the 'inside', then act shocked when people laugh at their forehead tattoo.
 
 This is a false dilemma, a black and white deal. Yes, While judging _only_ by appearances is shallow, to dismiss appearances entirely is naive. The very notion of 'outside' arises because one needed a term for 'not inside'.  The very concept only exists because it serves a purpose. Yes, we should bias toward the inside - [[Asymmetrical Upshot]] - but know that neither extreme serves us well.
 
@@ -36,11 +36,8 @@ Effort signals investment. That's the whole point. If you don't believe me, ask 
 
 Now, the bar is relative. If someone typically drifts through life in "no-fucks-given" attire but decides to put on cologne or a bit of makeup, that's already meaningful. You could argue that, since you don't necessarily know their baseline, you shouldn't judge too quickly. Fair. But humans are wired to notice effort when it's visible. Visibility matters. What gets measured gets managed.  if you want to manage how you're perceived, or for people to notice you care, you'd better make it easy to measure. 
 
-![coca-cola-caption](assets/New-Coke-branding-4.png)
-
-<caption>
-Coca-Cola's infamous "New Coke" fiasco of 1985. Blind taste tests consistently showed people preferred the new formula. But once the drink was put back into branded cans, the old Coke trounced it. Packaging and brand--_the outside_--overrode the inside. If people will betray their own taste buds for a shinier label, you don't think they'll judge you for showing up with last night's dinner on the fringes of your moustache?
-</caption>
+![Coca-Cola's New Coke fiasco](assets/New-Coke-branding-4.png)
+*Coca-Cola's infamous "New Coke" fiasco of 1985. Blind taste tests consistently showed people preferred the new formula. But once the drink was put back into branded cans, the old Coke trounced it. Packaging and brand—the outside—overrode the inside. If people will betray their own taste buds for a shinier label, you don't think they'll judge you for showing up with last night's dinner on the fringes of your moustache?*
 
 
 Impressions are important. Apple's welcome box isn't just cardboard--it's a ritual.  Disney obsesses over bin placement, ensuring you're never more than 30 steps from a trash can. Airbnb isn't just a place to crash for the night; the best ones leave welcome notes and local treats because they know arrival sets the tone. Certain Japanese companies employ people whose entire job is to bow to customers--pure costly signalling that says "we value you enough to dedicate human resources to your dignity". Dressing nicer than usual, being overtly warm and kind--this is all signalling. Whether it's a company's first impression, or a person's , when there's already so little signal to go on, it doesn't hurt to give your image a leg-up. David Perell has a hotel bathroom principle: Always dress well enough to walk into a bathroom at a hotel you're not staying at and get away with it.
