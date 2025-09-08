@@ -36,8 +36,10 @@ Effort signals investment. That's the whole point. If you don't believe me, ask 
 
 Now, the bar is relative. If someone typically drifts through life in "no-fucks-given" attire but decides to put on cologne or a bit of makeup, that's already meaningful. You could argue that, since you don't necessarily know their baseline, you shouldn't judge too quickly. Fair. But humans are wired to notice effort when it's visible. Visibility matters. What gets measured gets managed.  if you want to manage how you're perceived, or for people to notice you care, you'd better make it easy to measure. 
 
-![Coca-Cola's New Coke fiasco](assets/New-Coke-branding-4.png)
-*Coca-Cola's infamous "New Coke" fiasco of 1985. Blind taste tests consistently showed people preferred the new formula. But once the drink was put back into branded cans, the old Coke trounced it. Packaging and brand—the outside—overrode the inside. If people will betray their own taste buds for a shinier label, you don't think they'll judge you for showing up with last night's dinner on the fringes of your moustache?*
+<figure>
+  <img src="assets/New-Coke-branding-4.png" alt="Coca-Cola's New Coke fiasco">
+  <figcaption>Coca-Cola's infamous "New Coke" fiasco of 1985. Blind taste tests consistently showed people preferred the new formula. But once the drink was put back into branded cans, the old Coke trounced it. Packaging and brand—the outside—overrode the inside. If people will betray their own taste buds for a shinier label, you don't think they'll judge you for showing up with last night's dinner on the fringes of your moustache?</figcaption>
+</figure>
 
 
 Impressions are important. Apple's welcome box isn't just cardboard--it's a ritual.  Disney obsesses over bin placement, ensuring you're never more than 30 steps from a trash can. Airbnb isn't just a place to crash for the night; the best ones leave welcome notes and local treats because they know arrival sets the tone. Certain Japanese companies employ people whose entire job is to bow to customers--pure costly signalling that says "we value you enough to dedicate human resources to your dignity". Dressing nicer than usual, being overtly warm and kind--this is all signalling. Whether it's a company's first impression, or a person's , when there's already so little signal to go on, it doesn't hurt to give your image a leg-up. David Perell has a hotel bathroom principle: Always dress well enough to walk into a bathroom at a hotel you're not staying at and get away with it.
