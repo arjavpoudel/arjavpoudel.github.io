@@ -10,13 +10,13 @@ classes: wide
 
 <div class="intro-section">
   <h1 class="page-title">AI/ML Engineer & Researcher</h1>
-  <p class="lead-text">BSc Artificial Intelligence student at the University of Edinburgh, specializing in Computer Vision, Physics-Informed Machine Learning, and Deep Reinforcement Learning. Currently researching diffusion models for foundation models of neural dynamics.</p>
+  <p class="lead-text">BSc Artificial Intelligence student at the University of Edinburgh, specialising in NLP, Physics-Informed Machine Learning, and Computer Vision. Currently researching diffusion modelling for foundation models of neural dynamics.</p>
 </div>
 
 ## Research
 
 ### Honours Project: Diffusion Modelling of Neural Dynamics
-**September 2024 – Present** | University of Edinburgh
+**September 2025 – Present** | University of Edinburgh
 
 Developing interpretable generative models of neural dynamics by combining diffusion models with large-scale neuroscience data to build foundation models for understanding cognition and behaviour.
 
