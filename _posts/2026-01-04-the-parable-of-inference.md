@@ -8,10 +8,9 @@ High above a valley of mist sits the **Mountain of Truth**. On this mountain liv
 
 Down in the valley live the **Shadowbound**. They have never seen the mountain; it is hidden by layers upon layers of thick fog. All they know are the "Shadows" - the confusing objects that the Latent Beings cast down into the valley.
 
-The shadow-folk inhabit a strange world. On earth, when you or I cast a shadow, we agree it is a flatter thing than ourselves. But here, the reverse is true. A single, simple Being casts a shadow made of a million flickering pieces. 
+The shadow-folk inhabit a strange world. On Earth, when you or I cast a shadow, we agree it is a flatter thing than ourselves. But here, the opposite. A single, simple Being casts a shadow made of a million flickering pieces. 
 
-Stranger yet, on earth we cannot touch our shadows, cannot hold one in our palm. But here in the valley, the shadows are the _only_ things one can touch. They are solid, but the fog warps how they appear, blurring edges and hiding structure. The Beings themselves are untouchable, felt only through the shapes they cast into the fog.
-To make matters worse, two different Beings may cast shadows so alike that no eye in the valley could swear which one stood above. 
+Stranger yet, on Earth we cannot touch our shadows, much less hold one in our palm. But in the valley, the shadows are tangible. They are solid, but the fog warps how they appear, blurring edges and hiding structure. The Beings themselves are untouchable, felt only through the shapes they cast into the fog. To make matters worse, two different Beings may cast shadows so alike that no eye in the valley could swear which one stood above. 
 
 This is the story of how, once, long ago, the Shadowbound decided they wanted to understand the mountain.
 
@@ -21,7 +20,8 @@ First, the elders sent scouts.
 
 The elders said: 
 
-"Look for shadows with handles; those are Cups. Look for shadows with four legs; those are Dogs"
+> "Look for shadows with handles; those are Cups. Look for shadows with four legs; 
+> those are Dogs"
 
 But the fog was thick. The scouts quarreled endlessly over what a "handle" truly looked like in the dark, or where a tail ended and a leg began. Each scout arrived at their  own conclusions, and none could agree.
 
@@ -31,7 +31,8 @@ Clearly the shadows were too complex for simple rules.
 
 Then came the Architect. 
 
-"We do not need the elders to define the world for us" she cried. We only need to change how we look at it." 
+> "We do not need the elders to define the world for us" she cried. We only need to 
+> change how we look at it." 
 
 She  carved a wooden frame with a small square opening in the center. She gave this to the scouts and said: "Do not try to see the whole shadow at once. Look only through this window, slide it across the fog from left to right, top to bottom, and attend to only what appears inside."
 
