@@ -143,3 +143,9 @@ And the **Cartographers** work in the deep mist, taking the simple cloaks of the
 
 They realize now that there are many ways to find the Truth. Whether by the flight of the arrow, the tension of the cord, or the grace of the stitch,  they reach not for the mountain itself, but for the light it casts through the fog.
 
+
+
+<figure>
+  <img src="inference_comic.jpeg" alt="the parable of inference">
+  <figcaption>the parable of inference, in comic strip form.</figcaption>
+</figure>
