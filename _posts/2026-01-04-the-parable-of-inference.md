@@ -5,39 +5,47 @@ permalink: /posts/2026/01/the-parable-of-inference/
 tags: []
 ---
 High above a valley of mist sits the **Mountain of Truth**. On this mountain live the "Latent Beings"--the essential forms of things: the _Perfect Cup_, the _Ideal Dog_, the _Essence of a Storm_.
+
 Down in the valley live the **Shadowbound**. They have never seen the mountain; it is hidden by layers upon layers of thick fog. All they know are the "Shadows" - the confusing objects that the Latent Beings cast down into the valley.
 
-The shadow-folk inhabit a strange world. On earth, when you or I cast a shadow, we agree it is a flatter thing than ourselves. But here, the reverse is true. A single, simple Being casts a shadow made of a million flickering pieces.  
-Stranger yet, on earth we cannot touch our shadows, cannot hold one in our palm. But here in the valley, the shadows are the only things one can touch. They are solid, but the fog warps how they appear, blurring edges and hiding structure. The Beings themselves are untouchable - felt only through the shapes they cast into the fog.
+The shadow-folk inhabit a strange world. On earth, when you or I cast a shadow, we agree it is a flatter thing than ourselves. But here, the reverse is true. A single, simple Being casts a shadow made of a million flickering pieces. 
+
+Stranger yet, on earth we cannot touch our shadows, cannot hold one in our palm. But here in the valley, the shadows are the _only_ things one can touch. They are solid, but the fog warps how they appear, blurring edges and hiding structure. The Beings themselves are untouchable, felt only through the shapes they cast into the fog.
 To make matters worse, two different Beings may cast shadows so alike that no eye in the valley could swear which one stood above. 
 
 This is the story of how, once, long ago, the Shadowbound decided they wanted to understand the mountain.
 
 ### The Early Scouts 
 
-First, the elders sent scouts. The elders said: _"Look for shadows with handles; those are Cups. Look for shadows with four legs; those are Dogs.".
+First, the elders sent scouts. 
+
+The elders said: 
+
+"Look for shadows with handles; those are Cups. Look for shadows with four legs; those are Dogs"
+
 But the fog was thick. The scouts quarreled endlessly over what a "handle" truly looked like in the dark, or where a tail ended and a leg began. Each scout arrived at their  own conclusions, and none could agree.
+
 Clearly the shadows were too complex for simple rules.
 
 ### The Architect's Vision 
 
 Then came the Architect. 
 
-"We do not need the elders to define the world for us" she cried.  We only need to change how we look at it." 
+"We do not need the elders to define the world for us" she cried. We only need to change how we look at it." 
 
-She  carved a wooden frame with a small square opening in the center. She gave this to the scouts and said: "Do not try to see the whole shadow at once. Look only through this window, slide it across the fog from left to right, top to bottom, and attend to only what appears inside.
+She  carved a wooden frame with a small square opening in the center. She gave this to the scouts and said: "Do not try to see the whole shadow at once. Look only through this window, slide it across the fog from left to right, top to bottom, and attend to only what appears inside."
 
-And so they did. In time. Forced to look at the world in these small, repeating patches the scouts became aware something they had not noticed before. A bump in one corner of the frame was the same bump wherever it appeared. Fur was fur, whether high or low. Rims were rims, no matter where they hid. By limiting their sight, structure emerged on its own. They were no longer told _what_ to look for; the frame itself taught them _how_ to see.
+And so they did. In time, forced to see the world in these small, repeating patches, the scouts became aware of something curious. A bump in one corner of the frame was the same bump wherever it appeared. Fur was fur, whether high or low. Rims were rims, no matter where they hid. By limiting their sight, structure emerged on its own. They were no longer told _what_ to look for; the frame itself taught them _how_ to see.
 
 
 
 ### The Never-Ending Fog 
 
-Yet the Shadowbound wanted more. They were tired of sending scout after scout
+Yet the Shadowbound wanted more. They were tired of sending scout after scout.
 
 "If I see this exact shadow," they asked, "which Being on the mountain cast it?"
 
-They tried  to invoke the **Old Law**. The Old law teaches that Truth lies in balance: between what the valley has seen before and what the eye sees now.
+They tried  to invoke the **Old Law**. The Old law teaches that the Truth lies in balance: between what the valley has seen before and what the eye sees now.
 For example, if wisdom  told you that _Beings of Storms_ are common in the valley, but you only see a shadow with a handle, the Law helps you weigh one against the other - to learn where the Truth really lies. 
 
 But there was a terrible catch:
@@ -82,7 +90,7 @@ The inventor was an industrious fellow. Like others before him, he determined th
 
 But unlike the others, he realised at the trouble was not the cloth, nor the hooks, nor even the balance of forces. The trouble was memory itself. Every time a new shadow appeared, the valley forgot how it had solved all the previous ones.
 
-And so He spent the next few years in his workshop building the **Great Loom**.
+And so he spent the next few years in his workshop building the **Great Loom**.
 
 The great loom was a complicated thing. Inside were thousands of tiny, adjustable weights and interlocking gears. Along its front ran a shallow stone trough, wide enough to hold a shadow as one might lay out a rug. When a shadow was placed there, it settled- heavy, textured, restless. As the Loom digested the shadow, its levers would engage, and its weights would shift
 
@@ -101,7 +109,7 @@ Bets of all, The inventor knew he only need pay the price of this labour once. N
 
 Yet, while the Weavers rejoiced in their newfound speed, a group of Cartographers watched silently from the edge of the fog. 
 
-They shook their heads at the cloaks. " cloth is but a simple drape". "The Beings of the Mountain have jagged edges, sharp peaks, and deep canyons. Your fabric is too smooth to ever truly touch the Truth."
+They shook their heads at the cloaks. "cloth is but a simple drape". The Beings of the Mountain have jagged edges, sharp peaks, and deep canyons. Your fabric is too smooth to ever truly touch the Truth."
 
 They proposed a new ritual. First, they borrowed the Great Loom, not as an end, but as a beginning. From it they took the Cloth of the Being. To them, this cloth was a map of the mountain - a simpler, flatter version of the Truth. But from there, they did not pull cords or pin hooks.
 
@@ -123,9 +131,9 @@ It took a while, but eventually, their skill became so profound that they could 
 
 Today,  the Shadowbound have peace.
 
-The **Archers** maintain the the old ways, slow and sure, reminding the valley that the mountain is a real place that can be walked, even if it takes a lifetime.
+The **Archers** maintain the the old ways, slow and sure, reminding the valley that the mountain is a real place that can be walked, thoguh it may take many lifetimes.
 
-The **Weavers** sit at their Great Looms, quickly finding the silhouettes of the day. They have brought the mountain to the masses, allowing anyone to see the essential shape of a shadow in no time flat.
+The **Weavers** sit at their Great Looms, They have brought the mountain to the masses, allowing anyone to see the essential shape of a shadow in no time flat.
 
 And the **Cartographers** work in the deep mist, taking the simple cloaks of the Loom and mending them. By turning frayed threads into the most exquisite maps of the mountain, they provide a clarity that the valley had never known.
 
