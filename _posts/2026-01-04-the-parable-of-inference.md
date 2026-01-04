@@ -4,9 +4,9 @@ date: 2026-01-04
 permalink: /posts/2026/01/the-parable-of-inference/
 tags: []
 ---
-High above a valley of mist sits the **Mountain of Truth**. On this mountain live the "Latent Beings"--the essential forms of things: the _Perfect Cup_, the _Ideal Dog_, the _Essence of a Storm_.
+High above a valley of mist sits the **Mountain of Truth**. On this mountain live the Latent Beings - the essential forms of things: the _Perfect Cup_, the _Ideal Dog_, the _Essence of a Storm_.
 
-Down in the valley live the **Shadowbound**. They have never seen the mountain; it is hidden by layers upon layers of thick fog. All they know are the "Shadows" - the confusing objects that the Latent Beings cast down into the valley.
+Down in the valley live the **Shadowbound**. They have never seen the mountain; it is hidden by layers upon layers of thick fog. All they know are the Shadows - the confusing objects that the Latent Beings cast down into the valley.
 
 The shadow-folk inhabit a strange world. On Earth, when you or I cast a shadow, we agree it is a flatter thing than ourselves. But here, the opposite. A single, simple Being casts a shadow made of a million flickering pieces. 
 
@@ -67,13 +67,11 @@ After a thousand sunrises, the archers returned with carvings of where their arr
 
 #### 2. The Weavers 
 
-The Weavers were not so patient. 
-
-They watched the Archers dally in the fog and laughed. 
+The Weavers were not so patient. They watched the Archers' dalliance in the fog and laughed. 
 
 > "Why walk the mountain, when you can drape the Truth in muslin?"
 
-Their philosophy was simple. They began with a piece of plain cloth - a simple, unadorned square. Holding it up to the mist, they pulled it with hooks and cords. By adjusting the tension and the position of the hooks, they forced the simple, flat cloth to take the shape of the complex Being. They did not claim the cloth _was_ the Being itself - only that it was the best, simplest drape that could plausibly have cast such a shadow.
+The Weaver philosophy was simple. They began with a piece of plain cloth - a simple, unadorned square. Holding it up to the mist, they pulled it with hooks and cords. By adjusting the tension and the position of the hooks, they forced the simple, flat cloth to take the shape of the complex Being. They did not claim the cloth _was_ the Being itself - only that it was the best, simplest drape that could plausibly have cast such a shadow.
 
 But it wasn't long before trouble reached paradise.
 
