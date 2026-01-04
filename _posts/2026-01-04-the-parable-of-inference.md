@@ -44,7 +44,7 @@ And so they did. In time, forced to see the world in these small, repeating patc
 
 Yet the Shadowbound wanted more. They were tired of sending scout after scout.
 
-"If I see this exact shadow," they asked, "which Being on the mountain cast it?"
+> "If I see this exact shadow," they asked, "which Being on the mountain cast it?"
 
 They tried  to invoke the **Old Law**. The Old law teaches that the Truth lies in balance: between what the valley has seen before and what the eye sees now.
 For example, if wisdom  told you that _Beings of Storms_ are common in the valley, but you only see a shadow with a handle, the Law helps you weigh one against the other - to learn where the Truth really lies. 
@@ -58,18 +58,20 @@ You see, to get the Truth exactly right, the Law required you know the 'weight' 
 
 The problem troubled the valley for many moons. At last, 2 tribes demanded an answer.
 
-1. The Wandering Archers
+#### 1. The Wandering Archers
 
 The Wandering archers were patient. They decided to walk into the fog. They would take a step, loose an arrow to _mark a guess_, and if the place it landed felt "solid," they would remain there awhile.
 
 The earliest archers fired absent rhyme or reason, caring little where their allows fell. But later archers learned of a better way. Each arrow was loosed _in relation to the last_, every new guess depending on the one before it.
 After a thousand sunrises, the archers returned with carvings of where their arrows most often came to rest - not exact carvings of the mountain, but faithful ones. Any single journey was noisy and uncertain, yet taken together, their paths traced the true shape of the land. It was slow. Painfully so. But in the limit, it did not lie.
 
-2. The Weavers 
+#### 2. The Weavers 
 
 The Weavers were not so patient. 
 
-They watched the Archers dally in the fog and laughed. "Why walk the mountain," they cried, "when you can drape the Truth in muslin?"
+They watched the Archers dally in the fog and laughed. 
+
+> "Why walk the mountain, when you can drape the Truth in muslin?"
 
 Their philosophy was simple. They began with a piece of plain cloth - a simple, unadorned square. Holding it up to the mist, they pulled it with hooks and cords. By adjusting the tension and the position of the hooks, they forced the simple, flat cloth to take the shape of the complex Being. They did not claim the cloth _was_ the Being itself - only that it was the best, simplest drape that could plausibly have cast such a shadow.
 
@@ -110,7 +112,10 @@ Bets of all, The inventor knew he only need pay the price of this labour once. N
 
 Yet, while the Weavers rejoiced in their newfound speed, a group of Cartographers watched silently from the edge of the fog. 
 
-They shook their heads at the cloaks. "cloth is but a simple drape". The Beings of the Mountain have jagged edges, sharp peaks, and deep canyons. Your fabric is too smooth to ever truly touch the Truth."
+They shook their heads at the cloaks. 
+
+> "Cloth is but a simple drape". The Beings of the Mountain have jagged edges, sharp 
+> peaks, and deep canyons. Your fabric is too smooth to ever truly touch the Truth."
 
 They proposed a new ritual. First, they borrowed the Great Loom, not as an end, but as a beginning. From it they took the Cloth of the Being. To them, this cloth was a map of the mountain - a simpler, flatter version of the Truth. But from there, they did not pull cords or pin hooks.
 
