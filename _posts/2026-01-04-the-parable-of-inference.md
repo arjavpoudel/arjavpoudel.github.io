@@ -25,7 +25,8 @@ Then came the Architect.
 
 "We do not need the elders to define the world for us" she cried.  We only need to change how we look at it." 
 
-She  carved a wooden frame with a small square opening in the center. She gave this to the scouts and said: "Do not try to see the whole shadow at once. Look only through this window, slide it across the fog from left to right, top to bottom, and attend to only what appears inside. 
+She  carved a wooden frame with a small square opening in the center. She gave this to the scouts and said: "Do not try to see the whole shadow at once. Look only through this window, slide it across the fog from left to right, top to bottom, and attend to only what appears inside.
+
 And so they did. In time. Forced to look at the world in these small, repeating patches the scouts became aware something they had not noticed before. A bump in one corner of the frame was the same bump wherever it appeared. Fur was fur, whether high or low. Rims were rims, no matter where they hid. By limiting their sight, structure emerged on its own. They were no longer told _what_ to look for; the frame itself taught them _how_ to see.
 
 
@@ -41,12 +42,12 @@ For example, if wisdom  told you that _Beings of Storms_ are common in the valle
 
 But there was a terrible catch:
 
-You see, to get ehe Truth exactly right, the Law required you know the 'weight' of every possible speck of mist in the entire valley. That is, one had to account for every way any Being could ever cast any shadow through any fog.
+You see, to get the Truth exactly right, the Law required you know the 'weight' of every possible speck of mist in the entire valley. That is, one had to account for every way any Being could ever cast any shadow through any fog.
 
 
 ### The Two Tribes
 
-The problem troubled the valley for many moons. At last, 2 tribes emerged.
+The problem troubled the valley for many moons. At last, 2 tribes demanded an answer.
 
 1. The Wandering Archers
 
@@ -81,7 +82,7 @@ The inventor was an industrious fellow. Like others before him, he determined th
 
 But unlike the others, he realised at the trouble was not the cloth, nor the hooks, nor even the balance of forces. The trouble was memory itself. Every time a new shadow appeared, the valley forgot how it had solved all the previous ones.
 
- And so He spent the next few years in his workshop building the **Great Loom**.
+And so He spent the next few years in his workshop building the **Great Loom**.
 
 The great loom was a complicated thing. Inside were thousands of tiny, adjustable weights and interlocking gears. Along its front ran a shallow stone trough, wide enough to hold a shadow as one might lay out a rug. When a shadow was placed there, it settled- heavy, textured, restless. As the Loom digested the shadow, its levers would engage, and its weights would shift
 
@@ -92,9 +93,9 @@ On the Loom hung Two Counter-Weights:
 - The Weight of the Sacred Center, which constantly tugged the cloth back toward simplicity, lest it twist itself into extravagant lies.
 - The Weight of the Mirror-Shadow, which pulled hard whenever the cloth failed to resemble the shadow it was meant to explain.
 
-The inventor tightened the gears until these two forces reached a **Natural Tension**. The Loom learned that to satisfy both weights at once, it had to find the most efficient way to squeeze the essence of a shadow into the simplest possible pinning of the cloth. the Loom learned never to create more complexity than the shadow demanded, and never less than it required.
+The inventor tightened the gears until these two forces reached a Natural Tension. The Loom learned that to satisfy both weights at once, it had to find the most efficient way to squeeze the essence of a shadow into the simplest possible pinning of the cloth. the Loom learned never to create more complexity than the shadow demanded, and never less than it required.
 
-Bets of all, The inventor knew he only need pay the price of this labour once. Now, anyone could feed a shadow into the Loom's maw, and- in a heartbeat - the gears whir, the hooks snap into the earth, and the cloth is instantly transformed into a **Cloak**. The Truth it reveals is but a silhouette, but it is enough to recognize the Being behind the mist.
+Bets of all, The inventor knew he only need pay the price of this labour once. Now, anyone could feed a shadow into the Loom's maw, and- in a heartbeat - the gears whir, the hooks snap into the earth, and the cloth is instantly transformed into a Cloak. The Truth it reveals is but a silhouette, but it is enough to recognize the Being behind the mist.
 
 ### The Path of a Thousand Stitches
 
@@ -102,7 +103,7 @@ Yet, while the Weavers rejoiced in their newfound speed, a group of Cartographer
 
 They shook their heads at the cloaks. " cloth is but a simple drape". "The Beings of the Mountain have jagged edges, sharp peaks, and deep canyons. Your fabric is too smooth to ever truly touch the Truth."
 
-They proposed a new ritual. First, they borrowed the **Great Loom** , not as an end, but as a beginning. From it they took the **Cloth of the Being**. To them, this cloth was a map of the mountain - a simpler, flatter version of the Truth. But from there, they did not pull cords or pin hooks.
+They proposed a new ritual. First, they borrowed the Great Loom, not as an end, but as a beginning. From it they took the Cloth of the Being. To them, this cloth was a map of the mountain - a simpler, flatter version of the Truth. But from there, they did not pull cords or pin hooks.
 
 They did something unthinkable.
 
@@ -124,9 +125,9 @@ Today,  the Shadowbound have peace.
 
 The **Archers** maintain the the old ways, slow and sure, reminding the valley that the mountain is a real place that can be walked, even if it takes a lifetime.
 
-The Weavers sit at their Great Looms, quickly finding the silhouettes of the day. They have brought the mountain to the masses, allowing anyone to see the essential shape of a shadow in no time flat.
+The **Weavers** sit at their Great Looms, quickly finding the silhouettes of the day. They have brought the mountain to the masses, allowing anyone to see the essential shape of a shadow in no time flat.
 
-And the Cartographers work in the deep mist, taking the simple cloaks of the Loom and mending them. By turning frayed threads into the most exquisite maps of the mountain, they provide a clarity that the valley had never known.
+And the **Cartographers** work in the deep mist, taking the simple cloaks of the Loom and mending them. By turning frayed threads into the most exquisite maps of the mountain, they provide a clarity that the valley had never known.
 
-They realize now that there are many ways to find the Truth. Whether by the **flight of the arrow**, the **tension of the cord**, or the **grace of the stitch**,  they reach not for the mountain itself, but for the light it casts through the fog.
+They realize now that there are many ways to find the Truth. Whether by the flight of the arrow, the tension of the cord, or the grace of the stitch,  they reach not for the mountain itself, but for the light it casts through the fog.
 
