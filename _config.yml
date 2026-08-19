@@ -11,7 +11,7 @@ locale: "en-US"
 title: "Arjav's Homepage"
 title_separator: "-"
 name: &name "Arjav Poudel"
-description: &description "AI/ML Student specialising in Physics-Informed ML, Computational Neuroscience and Reinforcement Learning"
+description: &description "AI/ML specialising in Physics-Informed ML, Computational Neuroscience and Deep Learning.
 url: https://arjavpoudel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "arjavpoudel/arjavpoudel.github.io"
@@ -24,7 +24,7 @@ author:
   avatar: "headshot.jpg"
   name: "Arjav Poudel"
   pronouns: # example: "she/her"
-  bio: "BSc AI Student @ University of Edinburgh | ML Engineer"
+  bio: "BSc AI (First Class Honours), University of Edinburgh | ML Engineer"
   location: #
   employer: #
   uri: # URL

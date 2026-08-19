@@ -8,23 +8,24 @@ redirect_from:
 classes: wide
 ---
 
-<div class="intro-section">
-  <h1 class="page-title">AI/ML Engineer & Researcher</h1>
-  <p class="lead-text">BSc Artificial Intelligence student at the University of Edinburgh, specialising in NLP, Physics-Informed Machine Learning, and Computer Vision. Currently researching diffusion modelling for foundation models of neural dynamics.</p>
-</div>
+# AI/ML Engineer & Researcher
+
+BSc Artificial Intelligence (First Class Honours) graduate from the University of Edinburgh, specialising in Diffusion Models and Computational Cognitive Science.
+
+## Education
+
+**BSc Artificial Intelligence (First Class Honours)** — University of Edinburgh, 2026
 
 ## Research
 
-### Honours Project: Diffusion Modelling of Neural Dynamics
-**September 2025 – Present** | University of Edinburgh
+### Honours Project: Diffusion Modelling of Dynamical Systems
+**September 2025 – May 2026** | University of Edinburgh
 
-Developing interpretable generative models of neural dynamics by combining diffusion models with large-scale neuroscience data to build foundation models for understanding cognition and behaviour.
+Investigated whether diffusion models can recover the underlying physical laws of a system, rather than merely generating data that looks plausible. Studied in a controlled setting — the Ornstein-Uhlenbeck process, a model of any quantity that fluctuates randomly while being pulled toward a resting value (e.g. a particle's velocity in a fluid, or a neuron's membrane potential) — where the governing physics are known exactly, encoded in a single relaxation matrix, A.
 
-- Training state-of-the-art diffusion models on large-scale experimental neural data
-- Reverse-engineering diffusion model dynamics to discover attractor manifolds underlying neural activity
-- Leveraging connections between diffusion models and stochastic/ordinary differential equations for dynamical systems analysis
-- Generating synthetic neural data to train biologically plausible network models in data-constrained regimes
-- Investigating how neural manifolds across multiple tasks piece together in large experimental corpora
+- Identified and proved analytically that naively combining a diffusion model with a dynamical-system component causes an **Invariance Problem**: the diffusion model absorbs the system's physics into its own weights, rendering the true dynamics unrecoverable — a failure invisible to standard training diagnostics.
+- Demonstrated this failure empirically across a range of physical systems and data dimensionalities
+- Proposed a restructured architecture that constrains what information the diffusion model receives as input, reliably recovering the governing dynamics with no additional computational cost and no assumptions about the form of the data distribution
 
 ## Professional Experience
 
@@ -40,13 +41,13 @@ Developed innovative machine learning solutions for experimental validation in f
 - Accelerated fusion reactor component development by 3-6 months, contributing to sustainable fusion energy goals
 
 ### Head of Computer Vision — HumanEd
-**September 2024 – Present** | Edinburgh, UK
+**September 2024 – August 2026** | Edinburgh, UK
 
-Leading development of an advanced bio-mimetic hand using computer vision and deep reinforcement learning to autonomously solve Rubik's cubes.
+Led development of an advanced bio-mimetic hand using computer vision and deep reinforcement learning to autonomously solve Rubik's cubes.
 
-- Managing Computer Vision team leveraging image classification, object detection, and scene segmentation
-- Deploying generalized infrastructure capable of solving cube puzzles without specialized sensors
-- Building upon OpenAI's previous sensor-embedded approach to push boundaries of autonomous manipulation
+- Managed Computer Vision team leveraging image classification, object detection, and scene segmentation
+- Deployed generalized infrastructure capable of solving cube puzzles without specialized sensors
+- Built upon OpenAI's previous sensor-embedded approach to push boundaries of autonomous manipulation
 
 ## Selected Projects
 
