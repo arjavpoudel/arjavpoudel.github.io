@@ -1,3 +1,9 @@
+---
+title: "The Cult of the Success Story"
+date: 2023-01-06
+permalink: /posts/2023/01/the-cult-of-the-success-story/
+tags: []
+---
 The cult of the success story is an attractive one. You enter a room, and people notice. 9 AM coffee materialises. You’ll forget car doors also open from the inside. The position you hold determines how many will see you. How they will treat you.
 
 You are society’s blue blood – a sun for the masses to orbit. But this group that exists to revere your existence frankly reveres your Wikipedia Page. To them, your worth is your net worth.

@@ -1,3 +1,9 @@
+---
+title: "Don't Cancel Culture"
+date: 2020-05-03
+permalink: /posts/2020/05/dont-cancel-culture/
+tags: []
+---
 Picture this: You’ve been assigned the task of preparing dinner for some family function. The secret behind its preparation has been closely guarded for generations. After many years spent indulging in this delicacy, the time has finally come for you to learn the ways. But before you are handed the recipe, there is one clear instruction: execute each step to the letter.
 
 At first, you clutch the ancient document with reverence as the ineffable nature sinks in. But the gape quickly turns to a frown as you unfurl the scroll. The parchment drapes around your heels. That’s a lot of steps.

@@ -1,11 +1,8 @@
 ---
 title: "Recent Thoughts"
 date: 2023-08-14
-permalink: /posts/2012/08/recent-thoughts/
-tags:
-  - cool posts
-  - category1
-  - category2
+permalink: /posts/2023/08/recent-thoughts/
+tags: []
 ---
 
 The prolific artist on your left is not a sorcerer. The tech giant on your right is not a wizard. Sometimes magic is just someone spending more time on something than society could sensibly expect.
