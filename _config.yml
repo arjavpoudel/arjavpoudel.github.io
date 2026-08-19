@@ -11,7 +11,7 @@ locale: "en-US"
 title: "Arjav's Homepage"
 title_separator: "-"
 name: &name "Arjav Poudel"
-description: &description "AI/ML specialising in Physics-Informed ML, Computational Neuroscience and Deep Learning.
+description: &description "AI/ML specialising in Physics-Informed ML, Computational Neuroscience and Deep Learning."
 url: https://arjavpoudel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "arjavpoudel/arjavpoudel.github.io"
